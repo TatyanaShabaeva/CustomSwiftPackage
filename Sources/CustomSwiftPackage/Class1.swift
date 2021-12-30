@@ -1,3 +1,5 @@
 import Foundation
 
-class Class1 {}
+class Class1 {
+    func foo() {}
+}
