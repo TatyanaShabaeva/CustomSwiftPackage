@@ -1,5 +1,5 @@
 import Foundation
 
-class DevBranchClass {
-    func f() {}
+open class DevBranchClass {
+    open func f() {}
 }
